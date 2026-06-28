@@ -291,27 +291,8 @@ requested_metrics = [
 
 - 📊 **Model Benchmarking**: Compare multiple LLMs across custom metrics
 - 🔍 **Quality Assurance**: Validate model output quality automatically
-- ���� **Performance Tracking**: Monitor model improvements over time
+- 📈 **Performance Tracking**: Monitor model improvements over time
 - 🛠️ **Fine-tuning Evaluation**: Assess impact of fine-tuning on specific metrics
-
-## 🚧 Known Limitations
-
-- Format correctness metric currently only checks line count
-- Answer relevance uses basic keyword matching
-- Error handling reports failures but continues evaluation
-
-## 🔮 Future Enhancements
-
-- [ ] Add semantic similarity metrics using embeddings
-- [ ] Implement GPT-based evaluation metrics
-- [ ] Add support for batch processing
-- [ ] Create web UI for visualization
-- [ ] Add metric caching for performance
-- [ ] Support for custom score aggregation strategies
-
-## 📝 License
-
-This project is open source and available under the MIT License.
 
 ## 🤝 Contributing
 
